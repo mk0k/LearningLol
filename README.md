@@ -1,4 +1,4 @@
 # Learning lol
 ***Some bold and italic text ig***
 > My important message
-> check out [this](https://google.com)
+check this out [click me](https://google.com)
