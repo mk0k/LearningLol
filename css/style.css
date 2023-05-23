@@ -52,6 +52,10 @@ body {
     transform: scale(1.2);
 }
 
+.noZoom:hover {
+    transform: scale(1.2);
+}
+
 .imglink {
     text-decoration: none;
 }
