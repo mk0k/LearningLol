@@ -44,6 +44,8 @@ body {
 .noZoom {
     width: 200px;
     height: auto;
+    transition: transform ease-in-out 0.3s;
+    padding: 2px;
 }
 
 .zoomA:hover {
