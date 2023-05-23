@@ -41,7 +41,7 @@ body {
     padding: 2px;
 }
 
-.noZoom {
+.zoomB {
     width: 200px;
     height: auto;
     transition: transform ease-in-out 0.3s;
@@ -52,7 +52,7 @@ body {
     transform: scale(1.2);
 }
 
-.noZoom:hover {
+.zoomB:hover {
     transform: scale(1.2);
 }
 
