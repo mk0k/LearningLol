@@ -46,12 +46,14 @@ body {
     height: auto;
     transition: transform ease-in-out 0.3s;
     padding: 2px;
-    .noZoom:hover: scale(1.2)
 }
 
 .zoomA:hover {
     transform: scale(1.2);
 }
+
+.noZoom:hover {
+    transform: scale(1.2);
 
 .imglink {
     text-decoration: none;
