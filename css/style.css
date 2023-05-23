@@ -189,3 +189,7 @@ br {
     margin-right: auto;
     width: 5%;
 }
+
+.dyanmic {
+    border-radius: 10%;
+}
