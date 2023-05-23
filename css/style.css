@@ -49,6 +49,7 @@ body {
     .noZoom:hover {
         transform: scale(1.2);
 }
+}
 
 .zoomA:hover {
     transform: scale(1.2);
