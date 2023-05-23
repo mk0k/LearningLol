@@ -41,18 +41,12 @@ body {
     padding: 2px;
 }
 
-.zoomB {
+.noZoom {
     width: 200px;
     height: auto;
-    transition: transform ease-in-out 0.3s;
-    padding: 2px;
 }
 
 .zoomA:hover {
-    transform: scale(1.2);
-}
-
-.zoomB:hover {
     transform: scale(1.2);
 }
 
