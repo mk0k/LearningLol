@@ -216,12 +216,12 @@ li a:hover:not(.active) {
     background-color: #04AA6D;
 }
 
-bigimg {
+.bigimg {
     width: 400px;
     height: auto;
 }
 
-smallimg {
+.smallimg {
     width: 300px;
     height: auto;
 }
