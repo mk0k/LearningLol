@@ -35,8 +35,6 @@ body {
 }
 
 .zoomA {
-    width: 300px;
-    height: auto;
     transition: transform ease-in-out 0.3s;
     padding: 2px;
 }
@@ -216,4 +214,14 @@ li a:hover:not(.active) {
 
 .active {
     background-color: #04AA6D;
+}
+
+bigimg {
+    width: 400px;
+    height: auto;
+}
+
+smallimg {
+    width: 300px;
+    height: auto;
 }
